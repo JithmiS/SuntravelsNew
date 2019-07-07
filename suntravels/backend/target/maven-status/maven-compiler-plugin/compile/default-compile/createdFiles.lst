@@ -1,0 +1,12 @@
+tutorial\hotel\model\Hotelier.class
+tutorial\hotel\repository\RoomTypesRepository.class
+tutorial\hotel\repository\HotelierRepository.class
+tutorial\hotel\controller\FormController.class
+tutorial\hotel\repository\ContractRepository.class
+tutorial\hotel\model\RoomTypes.class
+tutorial\hotel\service\UserService.class
+tutorial\hotel\model\RoomTypeFormModel.class
+tutorial\hotel\model\Form.class
+tutorial\hotel\controller\HotelController.class
+tutorial\hotel\model\Contract.class
+tutorial\hotel\suntravelsApplication.class
